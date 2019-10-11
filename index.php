@@ -15,11 +15,11 @@
 	echo "<table border = '2' >";
 	echo "<tr>";
 	echo "<td> NIM </td>" ;
-	echo "<td> 10116307 </td> " ;
+	echo "<td> 10116316 </td> " ;
 	echo "</tr>";
 	echo "<tr>";
 	echo "<td> Nama </td>"; 
-	echo "<td> Yodi Azhari </td> " ;
+	echo "<td> Alfian Fadhilla Al-fathiry </td> " ;
 	echo "</tr>";
 	echo "</table>";
 ?>
